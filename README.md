@@ -4,33 +4,40 @@
    ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
    ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+   ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
    ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
 
 ## 🧠 Sobre Mim
-Sou **Desenvolvedor Back-End Sênior** com sólida experiência no design, construção, arquitetura, sustentação e evolução de sistemas corporativos distribuídos, plataformas ERP e APIs de missão crítica. Meu foco principal é construir soluções de software robustas, escaláveis e de alta disponibilidade, traduzindo requisitos de negócio complexos em arquiteturas limpas e eficientes.
+Sou **Engenheiro de Software Sênior** pós-graduado em Engenharia de Software e Cloud Computing. Possuo uma trajetória sólida desenhando, sustentando e evoluindo sistemas corporativos distribuídos de grande porte, plataformas ERP e arquiteturas baseadas em microsserviços. 
 
-* ⚙️ **Core Stack:** Java, Spring Boot, Spring Data JPA, Hibernate, MyBatis, C++ (Qt Creator), Lazarus/Pascal, Windows forms, Java Swing.
-* 🗄️ **Data Engineering:** Forte domínio em modelagem relacional, otimização de queries de alta volumetria, estruturas dinâmicas em `JSONB`, desenvolvimento de Views, Triggers e Stored Procedures em Oracle, PostgreSQL e SQL Server.
-* 🏗️ **Arquitetura & Boas Práticas:** Desenvolvimento orientado a APIs RESTful, migração de ecossistemas legados, mensageria/streaming, além da aplicação rigorosa de padrões SOLID, Clean Code e testes automatizados.
+Especialista no ecossistema Java e no desenvolvimento de APIs RESTful robustas, atuo fortemente na resolução de problemas complexos de negócio, com foco em consistência transacional, tratamento de concorrência e processamento de dados de alta criticidade.
+
+* ⚙️ **Core Stack:** Java (Spring Boot, Spring Data JPA, Hibernate, MyBatis), C++ (Qt Creator), Lazarus/Pascal, C# (WinForms).
+* 🗄️ **Data Engineering:** Forte domínio em modelagem relacional, otimização de queries para alta volumetria, Views, Triggers e Stored Procedures em Oracle (PL/SQL), PostgreSQL (incluindo JSONB), SQL Server (T-SQL) e MySQL.
+* 🏗️ **Arquitetura & Qualidade:** Implementação de arquiteturas orientadas a eventos (Apache Kafka), refatoração de sistemas complexos (eliminação de Modelos de Domínio Anêmicos), automação de esteiras CI/CD (Jenkins) e cobertura de testes automatizados (JUnit, Mockito).
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Projetos e Atuações em Destaque
 
 ### 🏦 [Digital Bank API](https://github.com/JosemarJR-Dev/digital-bank-api)
-API RESTful completa desenvolvida com Spring Boot, simulando o core de um banco digital com foco em resiliência e consistência financeira.
-* Implementação de transferências transacionais rígidas e mecanismos de controle de concorrência.
+API RESTful de banco digital desenvolvida com Spring Boot, simulando o core de transações financeiras com foco em resiliência e concorrência.
+* Implementação de transferências transacionais rígidas e mecanismos avançados de controle de concorrência.
 * Gestão de movimentações e disparo de fluxos assíncronos de notificação pós-commit.
 
-### ⚙️ Engenharia de Sistemas Corporativos & Integrações
-* **Modernização de Barramentos (Java):** Migração completa de barramentos de comunicação legados baseados em SOAP para arquiteturas modernas de microsserviços em APIs REST com Spring Boot e PostgreSQL.
-* **Processamento Dinâmico de Dados (Lazarus/Pascal):** Desenvolvimento de módulos para parsing de arquivos estruturados (XML), mapeamento flexível em estruturas JSON relacionais e automação de fluxos de entrada de dados.
-* **Módulos de Comunicação de Alta Performance (C++):** Criação de sistemas desktops orientados a objetos integrados a APIs externas, utilizando comunicação assíncrona e arquitetura orientada a eventos.
+### 🔄 Modernização de Ecossistemas & APIs RESTful (Java)
+* Liderança técnica na migração completa de barramentos de comunicação legados baseados em SOAP para arquiteturas modernas de microsserviços com Spring Boot e PostgreSQL.
+* Desenvolvimento e automação de fluxos assíncronos de mensageria utilizando Apache Kafka, reduzindo o acoplamento de sistemas e mitigando riscos de falhas distribuídas.
+
+### 💻 Soluções Corporativas Multiplataforma (C++ / Lazarus / C#)
+* **Processamento Dinâmico de Dados:** Desenvolvimento de rotinas para parsing e validação de arquivos estruturados (XML) em sistemas ERP, mapeando dados dinamicamente em estruturas relacionais JSONB no Postgres.
+* **Comunicação de Alta Performance:** Criação de módulos desktop orientados a objetos em C++ (Qt Creator) focados na integração assíncrona com APIs externas e controle de eventos de status em tempo real.
+* **Automação de Processos:** Desenvolvimento de utilitários e rotinas internas que otimizaram fluxos operacionais e de análise de dados, reduzindo sensivelmente a dependência de suporte técnico.
 
 ---
 
 ## 📬 Vamos nos conectar?
-* **LinkedIn:** [Acesse meu Perfil](https://www.linkedin.com/in/josemaraguiarjr)
+* **LinkedIn:** [josemaraguiarjr](https://www.linkedin.com/in/josemaraguiarjr)
 * **E-mail:** junioraguiar255@gmail.com
