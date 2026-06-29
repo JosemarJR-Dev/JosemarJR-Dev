@@ -9,25 +9,25 @@
 ---
 
 ## 🧠 Sobre Mim
-Sou **Desenvolvedor Back-End Sênior** especializado na construção, sustentação e evolução de sistemas corporativos e ERPs de alta criticidade. Minha bagagem une engenharia de software pura com forte domínio de regras de negócio complexas, atuando diretamente no desenvolvimento de soluções voltadas aos setores fiscal e contábil.
+Sou **Desenvolvedor Back-End Sênior** com sólida experiência no design, construção, arquitetura, sustentação e evolução de sistemas corporativos distribuídos, plataformas ERP e APIs de missão crítica. Meu foco principal é construir soluções de software robustas, escaláveis e de alta disponibilidade, traduzindo requisitos de negócio complexos em arquiteturas limpas e eficientes.
 
-* ⚙️ **Core Stack:** Java, Spring Boot, Spring Data JPA, Hibernate, MyBatis, C++ (Qt Creator), Lazarus/Pascal.
-* 🗄️ **Bancos de Dados:** Modelagem relacional avançada, otimização de queries, Views, Triggers e Stored Procedures em Oracle, PostgreSQL (incluindo JSONB) e SQL Server.
-* 🏗️ **Domínio Fiscal:** Vivência com mensageria, eventos da SEFAZ, geração/assinatura de XMLs corporativos (EFD-REINF, NF-e, DF-e) e regras ligadas à Reforma Tributária (IBS/CBS).
+* ⚙️ **Core Stack:** Java, Spring Boot, Spring Data JPA, Hibernate, MyBatis, C++ (Qt Creator), Lazarus/Pascal, Windows forms, Java Swing.
+* 🗄️ **Data Engineering:** Forte domínio em modelagem relacional, otimização de queries de alta volumetria, estruturas dinâmicas em `JSONB`, desenvolvimento de Views, Triggers e Stored Procedures em Oracle, PostgreSQL e SQL Server.
+* 🏗️ **Arquitetura & Boas Práticas:** Desenvolvimento orientado a APIs RESTful, migração de ecossistemas legados, mensageria/streaming, além da aplicação rigorosa de padrões SOLID, Clean Code e testes automatizados.
 
 ---
 
 ## 📌 Projetos em Destaque
 
 ### 🏦 [Digital Bank API](https://github.com/JosemarJR-Dev/digital-bank-api)
-API RESTful completa de banco digital em Spring Boot focada em consistência transacional e resiliência financeira.
-* Implementação de transferências transacionais rígidas e controle de concorrência.
-* Gestão de movimentações e disparo de notificações pós-commit.
+API RESTful completa desenvolvida com Spring Boot, simulando o core de um banco digital com foco em resiliência e consistência financeira.
+* Implementação de transferências transacionais rígidas e mecanismos de controle de concorrência.
+* Gestão de movimentações e disparo de fluxos assíncronos de notificação pós-commit.
 
-### 📑 [Módulos Fiscais e Integrações]
-* **EFD-REINF (Java):** Migração completa de barramento legado SOAP para arquitetura REST baseada em Spring Boot e PostgreSQL, gerenciando desde assinatura digital à transmissão de eventos.
-* **Módulo de Entrada Fiscal (Lazarus):** Parsing de XML de notas fiscais, mapeamento dinâmico em campos `JSONB` no Postgres e adequação às regras do IBS/CBS.
-* **Manifestador de Notas Fiscais (C++):** Sistema desktop orientado a objetos de alta performance para controle de eventos da SEFAZ (Ciência, Confirmação e Desconhecimento).
+### ⚙️ Engenharia de Sistemas Corporativos & Integrações
+* **Modernização de Barramentos (Java):** Migração completa de barramentos de comunicação legados baseados em SOAP para arquiteturas modernas de microsserviços em APIs REST com Spring Boot e PostgreSQL.
+* **Processamento Dinâmico de Dados (Lazarus/Pascal):** Desenvolvimento de módulos para parsing de arquivos estruturados (XML), mapeamento flexível em estruturas JSON relacionais e automação de fluxos de entrada de dados.
+* **Módulos de Comunicação de Alta Performance (C++):** Criação de sistemas desktops orientados a objetos integrados a APIs externas, utilizando comunicação assíncrona e arquitetura orientada a eventos.
 
 ---
 
